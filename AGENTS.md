@@ -14,7 +14,7 @@ APES.Members is the planned APES CIC members area for member accounts, licence a
 
 ## Stack and architecture
 
-Not chosen yet. When the app is scaffolded, record the languages, framework and key folders here. Area labels already reserved for the product include `area:accounts`, `area:licences`, `area:applications`, `area:home-checks`, `area:documents`, `area:notifications`, `area:payments`, `area:privacy`, `area:accessibility`, `area:infrastructure` and `area:docs`.
+Not chosen yet. When the app is scaffolded, record the languages, framework and key folders here. Area labels already reserved for the product include `area: accounts`, `area: licences`, `area: applications`, `area: home-checks`, `area: documents`, `area: notifications`, `area: payments`, `area: privacy`, `area: accessibility`, `area: infrastructure` and `area: docs`.
 
 ## Local development and preview
 
@@ -55,7 +55,7 @@ Shipping follows Cursor's `github-milestone-completion` and `ship-gate` skills. 
 | Milestone branch pattern | `milestone/vX-Y-Z-<slug>` (confirm when the first versioned milestone opens) |
 | Version files | None yet |
 | Release tooling | None yet |
-| Area labels | `area:accounts`, `area:licences`, `area:applications`, `area:home-checks`, `area:documents`, `area:notifications`, `area:payments`, `area:privacy`, `area:accessibility`, `area:infrastructure`, `area:docs` |
+| Area labels | `area: accounts`, `area: licences`, `area: applications`, `area: home-checks`, `area: documents`, `area: notifications`, `area: payments`, `area: privacy`, `area: accessibility`, `area: infrastructure`, `area: docs` |
 | Issue title prefix | `[Type] Short title` |
 
 Development is tracked only in GitHub issues, sub-issues and `vMAJOR.MINOR.PATCH` milestones — never Linear.
